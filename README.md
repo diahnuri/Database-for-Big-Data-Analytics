@@ -1,4 +1,4 @@
-# Databases for Big Data Analytics – Hands-on Starter Kit
+# Databases for Big Data Analytics – Tutorial
 This repository contains tutorials how to store, manage, manipulate data into database with SQL and No SQL technologies. 
 The tutorial is equipped by data samples and hands-on instructions that can be applied directly to RDBMS (PostgreSQL) and NoSQL (MongoDB).
 The tutorial also includes synthetic MPD-style datasets and ready-to-run scripts.
